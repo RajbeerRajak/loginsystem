@@ -2,8 +2,8 @@
 login System using php 
 
  Features of This Login System :
- ** Added UNIQUE constraint to username
- ** Using Password hashing technique for security purpose.(password_hash() and password_verify() )
+ # ** Added UNIQUE constraint to username
+ #** Using Password hashing technique for security purpose.(password_hash() and password_verify() )
 
 
 
