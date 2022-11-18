@@ -1,6 +1,11 @@
 # loginsystem
 login System using php 
 
+ Features of This Login System :
+ ** Added UNIQUE constraint to username
+ ** Using Password hashing technique for security purpose.(password_hash() and password_verify() )
+
+
 
 Login Page:
 ![Capture](https://user-images.githubusercontent.com/85821777/202754663-6d524314-d81b-4bf6-ae22-d7a716bd28ae.JPG)
